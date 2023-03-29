@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-ETL mini project
+
 I worked in this project using ETL, Python and Pandas.
 After I transformed the data, I created four CSV files and use the CSV file data to create an ERD and a table schema. Finally, I uploaded the CSV file data into a Postgres database.
 Find the steps I followed below:
